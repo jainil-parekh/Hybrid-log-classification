@@ -27,10 +27,10 @@ The API routes incoming logs through three specialized layers:
 - **Data Processing:** Pandas, NumPy
 - **Deployment:** Render (Cloud PaaS)
 
-## 🌐 Live Demo
+<!-- ## 🌐 Live Demo
 
 The API is successfully deployed to the cloud. You can test the interactive dashboard here:
-👉 **[Click Here for the Live API Dashboard](https://YOUR_RENDER_URL.onrender.com/docs)** _(Replace with your actual Render URL)_
+👉 **[Click Here for the Live API Dashboard](https://YOUR_RENDER_URL.onrender.com/docs)** _(Replace with your actual Render URL)_ -->
 
 ## 💻 Local Installation & Setup
 
