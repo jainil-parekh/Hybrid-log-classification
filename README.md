@@ -32,7 +32,7 @@ The API routes incoming logs through three specialized layers:
 The API is successfully deployed to the cloud. You can test the interactive dashboard here:
 👉 **[Click Here for the Live API Dashboard](https://YOUR_RENDER_URL.onrender.com/docs)** _(Replace with your actual Render URL)_ -->
 
-## 💻 Local Installation & Setup:
+## 💻 Local Installation & Setup
 
 If you wish to run this pipeline locally, follow these steps:
 
